@@ -1,0 +1,12 @@
+/* *{
+    background-color:black;
+    z-index: 0;
+} */
+
+/* .app{
+    background-image: ;
+} */
+
+body {
+    background-image: url("http://www.nasa.gov/sites/default/files/thumbnails/image/smap-weather.jpg");
+  }

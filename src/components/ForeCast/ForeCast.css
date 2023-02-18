@@ -1,0 +1,13 @@
+.foreCast{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: aquamarine;
+    border-style:solid;
+    margin: 5px;
+    height: 300px;
+    width:300px;
+    text-align: center;
+}
